@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Questões-beecrowd": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
